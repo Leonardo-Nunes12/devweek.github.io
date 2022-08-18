@@ -26,8 +26,6 @@
     background-color: #424a50;
     border-radius: 0px 60px 0px 0px;
 }
-
-.left-section-contents {
     padding: 2rem 2rem;
 }
 
@@ -81,7 +79,6 @@
 .skills ul {
     padding-top: 1.5rem;
 }
-
 .skills ul li p {
     padding: .4rem 0;
     color: #eeeeee;
@@ -98,7 +95,6 @@
 .gap {
     padding-bottom: 2rem;
 }
-
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
